@@ -1,0 +1,48 @@
+{
+	"style" : "default",
+	"config" : "save_data.dat",
+	"width" : 720,
+	"height" : 720,
+	"cancelscroll" : true,
+	"cancelname" : "取消",
+	"okname" : "确定",
+	"views" : [
+		{
+			"type":"Page",
+			"text": "基础设置",
+			"views":[
+				{			
+					"id" : "2",
+					"align" : "left",
+					"color" : "0,0,0",
+					"kbtype" : "number",
+					"prompt" : "次数",
+					"size" : "25",
+					"text" : "100",
+					"type" : "Edit"
+				}
+			]
+		},
+		
+		{
+			"type":"Page",
+			"text": "关卡选择",
+			"views":[
+				{
+					"align" : "left",
+					"color" : "0,0,0",
+					"size" : "30",
+					"text" : "关卡选择:",
+					"type" : "Label"
+				},
+				{
+					"id" : "mission",
+					"list" : "GT-5,GT-6",
+					"select" : "0",
+					"size" : "30",
+					"type" : "ComboBox"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,24 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Common	C:/Users/admin/Documents/xspworkspace/arknights-script/xsp/src\core\common.lua	2;"	e
+Common.awitMainScreen	C:/Users/admin/Documents/xspworkspace/arknights-script/xsp/src\core\common.lua	5;"	f
+Gt	C:/Users/admin/Documents/xspworkspace/arknights-script/xsp/src\modules\gt.lua	2;"	e
+Gt.toIndex	C:/Users/admin/Documents/xspworkspace/arknights-script/xsp/src\modules\gt.lua	5;"	f
+Gt.toIndex2	C:/Users/admin/Documents/xspworkspace/arknights-script/xsp/src\modules\gt.lua	15;"	f
+awitMainScreen(touch,	C:/Users/admin/Documents/xspworkspace/arknights-script/xsp/src\core\common.lua	5;"	f
+b	C:/Users/admin/Documents/xspworkspace/arknights-script/xsp/src\core\common.lua	12;"	e
+b	C:/Users/admin/Documents/xspworkspace/arknights-script/xsp/src\core\common.lua	7;"	e
+common	C:/Users/admin/Documents/xspworkspace/arknights-script/xsp/src\main.lua	3;"	e
+gt	C:/Users/admin/Documents/xspworkspace/arknights-script/xsp/src\main.lua	4;"	e
+id	C:/Users/admin/Documents/xspworkspace/arknights-script/xsp/src\lib\touch.lua	7;"	e
+s	C:/Users/admin/Documents/xspworkspace/arknights-script/xsp/src\lib\touch.lua	8;"	e
+tip(x,	C:/Users/admin/Documents/xspworkspace/arknights-script/xsp/src\lib\touch.lua	5;"	f
+toIndex(t,	C:/Users/admin/Documents/xspworkspace/arknights-script/xsp/src\modules\gt.lua	5;"	f
+toIndex2(t,	C:/Users/admin/Documents/xspworkspace/arknights-script/xsp/src\modules\gt.lua	15;"	f
+touch	C:/Users/admin/Documents/xspworkspace/arknights-script/xsp/src\lib\touch.lua	2;"	e
+touch	C:/Users/admin/Documents/xspworkspace/arknights-script/xsp/src\main.lua	2;"	e
+touch.tip	C:/Users/admin/Documents/xspworkspace/arknights-script/xsp/src\lib\touch.lua	5;"	f
