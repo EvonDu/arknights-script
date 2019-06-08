@@ -8,15 +8,21 @@ require("core/Common");
 local GT = require("modules/GT");
 
 -- 调用IU
---yesorno,retuserui=showUI("ui.json");
--- 判断选择值
---if yesorno==0 then        
---  toast("退出脚本运行");
---  lua_exit();
---end
+yesorno,retuserui=showUI("ui.json");
+if yesorno==0 then 
+  lua_exit();
+end
+
+-- 任务执行提示
+toast("执行任务:"..retuserui["mission-type"].."-"..retuserui["mission-level"]+1);
 
 -- 等待主界面出现(height和width要反过来，因为是横屏)
 Common:awitMainScreen()
 
 -- 执行GT活动
-GT:mission(6);
+if tonumber(retuserui["mission-type"]) == 0 then
+	-- 导入模块
+	local GT = require("modules/GT");
+	-- 执行任务
+	GT:mission(retuserui["mission-level"]+1);
+end

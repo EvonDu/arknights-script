@@ -13,10 +13,11 @@ Common.openAutoBattle	C:/Users/Administrator/Documents/xspworkspace/arknights-sc
 Config	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\core\Config.lua	1;"	e
 Debug	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\core\Debug.lua	2;"	e
 Debug.show	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\core\Debug.lua	14;"	f
+GT	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\main.lua	25;"	e
 GT	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\main.lua	8;"	e
 GT	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\modules\GT.lua	2;"	e
-GT.mission	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\modules\GT.lua	57;"	f
-GT.select	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\modules\GT.lua	43;"	f
+GT.mission	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\modules\GT.lua	70;"	f
+GT.select	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\modules\GT.lua	44;"	f
 GT.toIndex	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\modules\GT.lua	5;"	f
 GT.toList	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\modules\GT.lua	24;"	f
 Touch	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\core\Touch.lua	2;"	e
@@ -29,10 +30,10 @@ color	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\cor
 height	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\core\Config.lua	4;"	e
 height	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\core\Debug.lua	11;"	e
 id	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\core\Debug.lua	3;"	e
-mission(args,	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\modules\GT.lua	57;"	f
+mission(args,	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\modules\GT.lua	70;"	f
 openAutoBattle(args)	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\core\Common.lua	39;"	f
 pos	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\core\Debug.lua	9;"	e
-select(args,	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\modules\GT.lua	43;"	f
+select(args,	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\modules\GT.lua	44;"	f
 show(args,text)	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\core\Debug.lua	14;"	f
 size	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\core\Debug.lua	6;"	e
 toIndex(args)	C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src\modules\GT.lua	5;"	f

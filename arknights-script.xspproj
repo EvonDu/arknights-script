@@ -1,10 +1,10 @@
 [SOURCE]
 1\SOURCEFILE=C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src/main.lua
-2\SOURCEFILE=C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src/core/Touch.lua
+2\SOURCEFILE=C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src/core/Common.lua
 size=6
-3\SOURCEFILE=C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src/core/Debug.lua
-4\SOURCEFILE=C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src/core/Config.lua
-5\SOURCEFILE=C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src/core/Common.lua
+3\SOURCEFILE=C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src/core/Config.lua
+4\SOURCEFILE=C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src/core/Debug.lua
+5\SOURCEFILE=C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src/core/Touch.lua
 6\SOURCEFILE=C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/src/modules/GT.lua
 
 [UI]
@@ -12,8 +12,8 @@ size=6
 size=1
 
 [RES]
-size=3
-1\RESFILE=C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/res/common/main.png
+size=1
+1\RESFILE=C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/res/bg.jpg
 2\RESFILE=C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/res/gt/index.png
 3\RESFILE=C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/res/lib/d.png
 4\RESFILE=C:/Users/Administrator/Documents/xspworkspace/arknights-script/xsp/res/lib/d.png
