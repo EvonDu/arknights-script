@@ -4,13 +4,17 @@ require("core/Touch");
 require("core/Debug");
 require("core/Common");
 
--- 导入模块
-local GT = require("modules/GT");
+-- 判断分辨率
+w,h = getScreenSize()
+if w ~= 720 or h ~=1280 then
+	dialog("仅支持分辨率:720*1280", 0)
+	lua_exit();
+end
 
--- 调用IU
+-- 显示选项界面
 yesorno,retuserui=showUI("ui.json");
 if yesorno==0 then 
-  lua_exit();
+	lua_exit();
 end
 
 -- 任务执行提示
